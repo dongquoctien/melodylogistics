@@ -1,7 +1,7 @@
 # melodylogistics.com
 ![image](https://github.com/dongquoctien/melodylogistics.com/assets/89438689/0568d910-38eb-435a-a454-5f48df6d962c)
 
- [![](/templates/pc/01/assets/img/logo.png) ![](/templates/pc/01/assets/img/logo-2.png)](/trang-chu.html "Trang chủ")
+ [![](/templates/pc/01/assets/img/logo.png) ![](/templates/pc/01/assets/img/logo-2.png)](/index.html "Trang chủ")
 
 *   [Trang chủ](/index.html "Trang chủ")
 *   [Dịch vụ](javascript:void(0); "Dịch vụ")

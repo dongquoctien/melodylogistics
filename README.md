@@ -23,4 +23,3 @@
     *   [Tuyển dụng](/tuyen-dung-10.html "Tuyển dụng")
 *   [Liên hệ](/lien-he-5.html "Liên hệ")
 
-[![](/templates/pc/01/assets/img/20150827110756-dathongbao.png)](http://online.gov.vn/HomePage/CustomWebsiteDisplay.aspx?DocId=58281)
